@@ -1,8 +1,9 @@
-# React + Vite
+![изображение](https://github.com/Wokkta/optimalbank/assets/55146833/b235b2b6-0f24-4859-8797-2f9bed07a1d6)
+VTB MORETECH 5.0: Интерактивная карта отделений и банкоматов от команды InnovIT
+Описание проекта
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Приветствуем в репозитории проекта, разработанного для хакатона VTB MORETECH 5.0! Мы создали инновационный сервис, предоставляющий пользователям интерактивную карту отделений и банкоматов VTB. Но это не просто карта - в ней интегрирован умный поиск и ваш личный виртуальный ассистент, который поможет сориентироваться и ответить на все интересующие вопросы.
+Основные функции:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Интерактивная карта: Ясное и интуитивно понятное отображение всех отделений и банкоматов VTB.
+    Определение оптимального отделения: Наши алгоритмы помогут на основе ваших желаний выбрать подходящее отделение банка
